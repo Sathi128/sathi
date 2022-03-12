@@ -1,0 +1,21 @@
+#adnin-box{
+    background-color:purple;
+    width: 500px;
+}
+*{
+    text-align: center;
+    color:white;
+}
+p a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+form input {
+    width: 90px;
+}
+
+input[type="submit"]:hover{
+    background-color: red;
+    cursor: pointer;
+    color: white;
+}

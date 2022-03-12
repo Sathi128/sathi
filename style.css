@@ -1,0 +1,58 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+.admin-box{
+    background-color:black;
+    color: white;
+    width: 500px;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 50px;
+    
+    
+}
+label{text-align: left;
+display: block;
+text-align: start;}
+form{
+    margin: 20px;
+}
+input{
+    width: 100%;
+    display: block;
+    margin: 10px 0px;
+    padding: 10px;
+}
+input[type="submit"]{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+span{
+    margin: 20px auto;
+    border-top: 2px solid #fff;
+    width: 100%;
+    display: block;
+}
+a{color: white;
+ 
+    display: block;
+    text-align: end;
+}
+p a{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.sci{
+    color: rgb(232, 230, 238);
+}
+body{
+    background-image: url(background.jpeg);
+    background-size: cover;
+}
+
